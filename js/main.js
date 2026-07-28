@@ -6,30 +6,57 @@
 const puppies = [
     {
       id: 1,
-      name: "Bella",
-      photo: "https://placedog.net/400/300?id=1",
-      estimatedSize: "Miniature · ~12-15 lbs",
-      description: "Sweet, playful girl who loves cuddles and belly rubs.",
+      name: "boy 1",
+      photo: "images/boy1.jpg",
+      estimatedSize: "Miniature Poodle· ~12-15 lbs",
+      description: "Sweet, playful boy who loves cuddles and belly rubs.",
       mom: { name: "Daisy",  photo: "https://placedog.net/300/300?id=10", size: "Miniature · 14 lbs" },
       dad: { name: "Cooper", photo: "https://placedog.net/300/300?id=11", size: "Miniature · 15 lbs" }
     },
     {
       id: 2,
-      name: "Max",
-      photo: "https://placedog.net/400/300?id=2",
-      estimatedSize: "Standard · ~45-55 lbs",
+      name: "boy 2",
+      photo: "images/boy2.jpg",
+      estimatedSize: "Miniature Poodle · ~12-15 lbs",
       description: "Confident, smart boy — great with kids and eager to learn.",
       mom: { name: "Luna",   photo: "https://placedog.net/300/300?id=12", size: "Standard · 48 lbs" },
       dad: { name: "Rocky",  photo: "https://placedog.net/300/300?id=13", size: "Standard · 55 lbs" }
     },
     {
       id: 3,
-      name: "Coco",
-      photo: "https://placedog.net/400/300?id=3",
-      estimatedSize: "Toy · ~6-8 lbs",
+      name: "boy 3",
+      photo: "images/boy3.jpg",
+      estimatedSize: "Miniature Poodle · ~12-15 lbs",
       description: "Tiny bundle of joy with a big personality and soft curls.",
       mom: { name: "Pearl",  photo: "https://placedog.net/300/300?id=14", size: "Toy · 7 lbs" },
       dad: { name: "Teddy",  photo: "https://placedog.net/300/300?id=15", size: "Toy · 8 lbs" }
+    },
+    {
+      id: 4,
+      name: "girl 1",
+      photo: "images/girl1.jpg",
+      estimatedSize: "Miniature Poodle· ~12-15 lbs",
+      description: "Gentle, easygoing girl who loves naps and being close to his people.",
+      mom: { name: "Daisy",  photo: "https://placedog.net/300/300?id=16", size: "Miniature · 14 lbs" },
+      dad: { name: "Cooper", photo: "https://placedog.net/300/300?id=17", size: "Miniature · 15 lbs" }
+    },
+    {
+      id: 5,
+      name: "girl 2",
+      photo: "images/girl2.jpg",
+      estimatedSize: "Miniature Poodle · ~12-15 lbs",
+      description: "Curious, affectionate girl with the softest apricot curls.",
+      mom: { name: "Pearl",  photo: "https://placedog.net/300/300?id=18", size: "Toy · 7 lbs" },
+      dad: { name: "Teddy",  photo: "https://placedog.net/300/300?id=19", size: "Toy · 8 lbs" }
+    },
+    {
+      id: 6,
+      name: "Coming Soon",
+      photo: "https://placedog.net/400/300?id=6",
+      estimatedSize: "Standard · ~50-60 lbs",
+      description: "Energetic, loyal boy who loves to play fetch and make new friends.",
+      mom: { name: "Luna",   photo: "https://placedog.net/300/300?id=20", size: "Standard · 48 lbs" },
+      dad: { name: "Rocky",  photo: "https://placedog.net/300/300?id=21", size: "Standard · 55 lbs" }
     }
   ];
   
